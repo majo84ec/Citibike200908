@@ -4,7 +4,10 @@
 
 Citibike is a bike-sharing program in Des Moines and it is looking to convince investors that it is a solid business program.. To solidify the proposal, one of the key stakeholders request us a bike trip analysis with information of August 2009 using Tableau.
 
-Follow the link for story 
+Follow the link for story https://public.tableau.com/app/profile/maria.cedillo/viz/NY_Citibike200908/Story5?publish=yes
+https://public.tableau.com/views/NY_Citibike200908/Story5?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
+
 
 ## Results.
 
